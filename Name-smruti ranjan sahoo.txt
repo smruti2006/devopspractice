@@ -2,3 +2,7 @@ Name-smruti ranjan sahoo
 email-risingsmruti@gmail.com
 dist-jajpur
 village-binjharpur
+Name-Suryapratap swain
+email-naga@gmail.com
+dist-cuttack
+village-tangi
