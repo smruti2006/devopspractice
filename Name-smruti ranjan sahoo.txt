@@ -1,4 +1,16 @@
 Name-smruti ranjan sahoo
 email-risingsmruti@gmail.com
 dist-jajpur
+<<<<<<< HEAD
 village-binjharpur
+=======
+village-binjharpur
+Name-Suryapratap swain
+email-naga@gmail.com
+dist-cuttack
+village-tangi
+Name-pramit purohit
+email-pramit@gmail.com
+dist-ganjam
+village-chatrapur
+>>>>>>> 2618ee834be447bbca07dcfa5c54821a8af99095
