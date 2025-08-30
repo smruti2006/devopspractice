@@ -6,3 +6,7 @@ Name-Suryapratap swain
 email-naga@gmail.com
 dist-cuttack
 village-tangi
+Name-pramit purohit
+email-pramit@gmail.com
+dist-ganjam
+village-chatrapur
