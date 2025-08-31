@@ -3,6 +3,7 @@ email-risingsmruti@gmail.com
 dist-jajpur
 Block-Binjharpur
 village-binjharpur
+Tahasil-Binjharpur
 =======
 village-binjharpur
 Name-Suryapratap swain
