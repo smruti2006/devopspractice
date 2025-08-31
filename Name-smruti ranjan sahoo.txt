@@ -4,6 +4,7 @@ dist-jajpur
 Block-Binjharpur
 village-binjharpur
 Thana-Binjhapur
+Post-Binjhapur
 =======
 village-binjharpur
 Name-Suryapratap swain
