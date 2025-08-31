@@ -3,7 +3,7 @@ email-risingsmruti@gmail.com
 dist-jajpur
 Block-Binjharpur
 village-binjharpur
-Thana-Binjhapur
+Thana-Binjhapur 
 Post-Binjhapur
 =======
 village-binjharpur
