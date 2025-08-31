@@ -1,7 +1,7 @@
 Name-smruti ranjan sahoo
 email-risingsmruti@gmail.com
 dist-jajpur
-<<<<<<< HEAD
+Block-Binjharpur
 village-binjharpur
 =======
 village-binjharpur
@@ -13,4 +13,3 @@ Name-pramit purohit
 email-pramit@gmail.com
 dist-ganjam
 village-chatrapur
->>>>>>> 2618ee834be447bbca07dcfa5c54821a8af99095
