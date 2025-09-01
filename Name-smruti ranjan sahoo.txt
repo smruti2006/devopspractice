@@ -14,3 +14,4 @@ Name-pramit purohit
 email-pramit@gmail.com
 dist-ganjam
 village-chatrapur
+block-chatrapur
